@@ -65,8 +65,8 @@ msgid "Smile designed by jelio dimitrov from the Noun Project"
 msgstr "Smile ontworpen door jelio dimitrov van het Noun Project"
 
 #: src/dialogs/app-donation/index.html
-msgid "If you love Twine as much as I do, please consider helping it grow with a donation. Twine is an open source project that will always be free to use &mdash; and with your help, Twine will continue to thrive."
-msgstr "Als je net zoveel van Twine houdt als ik, overweeg dan om het te helpen groeien met een donatie. Twine is een open source-project dat altijd gratis zal zijn om te gebruiken &mdash; en met jouw hulp, zal Twine blijven bloeien."
+msgid "If you love Twine as much as I do, please consider helping it grow with a donation. Twine is an open source project that will always be free to use — and with your help, Twine will continue to thrive."
+msgstr "Als je net zoveel van Twine houdt als ik, overweeg dan om het te helpen groeien met een donatie. Twine is een open source-project dat altijd gratis zal zijn om te gebruiken — en met jouw hulp, zal Twine blijven bloeien."
 
 #: src/dialogs/app-donation/index.html
 msgid "Chris Klimas, Twine creator"
@@ -81,8 +81,8 @@ msgid "Donate"
 msgstr "Doneren"
 
 #: src/dialogs/app-donation/index.html
-msgid "This message will only be shown to you once.&lt;br&gt;If you'd like to donate to Twine development in the future, you can do so at &lt;a href=\\\"http:\\/\\/twinery.org/donate\\\" target=\\\"_blank\\\"&gt;http://twinery.org/donate&lt;/a&gt;."
-msgstr "Je zult dit bericht maar een keer zien. &lt;br&gt;Als je in de toekomst een donatie voor de ontwikkeling van Twine wilt maken, kun je dat doen op &lt;a href=\\\"http:\\/\\/twinery.org/donate\\\" target=\\\"_blank\\\"&gt;http://twinery.org/donate&lt;/a&gt;."
+msgid "This message will only be shown to you once.<br>If you'd like to donate to Twine development in the future, you can do so at <a href=\\\"http:\\/\\/twinery.org/donate\\\" target=\\\"_blank\\\">http://twinery.org/donate</a>."
+msgstr "Je zult dit bericht maar een keer zien. <br>Als je in de toekomst een donatie voor de ontwikkeling van Twine wilt maken, kun je dat doen op <a href=\\\"http:\\/\\/twinery.org/donate\\\" target=\\\"_blank\\\">http://twinery.org/donate</a>."
 
 #: src/dialogs/formats/index.html
 msgid "Story Formats"
@@ -97,6 +97,10 @@ msgid "Use as Default"
 msgstr "Als standaard instellen"
 
 #: src/dialogs/formats/index.html
+msgid "Set this format as a default for stories"
+msgstr "Dit formaat als standaard gebruiken voor verhalen"
+
+#: src/dialogs/formats/index.html
 msgid "Proofing Formats"
 msgstr "Proofingformaten"
 
@@ -106,7 +110,7 @@ msgstr "Proofing-formaten maken een versie van verhalen die speciaal bedoeld zij
 
 #: src/dialogs/formats/index.html
 msgid "Add a New Format"
-msgstr "Nieuw formaat toevoegen"
+msgstr "Formaat toevoegen"
 
 #: src/dialogs/formats/index.html
 msgid "To add a story format, enter its address below."
@@ -265,12 +269,12 @@ msgid "New here?"
 msgstr "Ben je nieuw hier?"
 
 #: src/nw/patches/welcome-view/replacement-template.html src/welcome/index.html
-msgid "&lt;strong&gt;If you've never used Twine before,&lt;/strong&gt; then welcome! The &lt;a href=\"http://twinery.org/2guide\" target=\"_blank\"&gt;Twine 2 Guide&lt;/a&gt; and the official wiki in general, are a great place to learn. Keep in mind that some articles on the wiki were written for Twine 1, which is a little bit different than this version. But most of the concepts are the same."
-msgstr "&lt;strong&gt;Als je nog nooit Twine hebt gebruikt,&lt;/strong&gt; welkom! De &lt;a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\"&gt;Twine 2-gids&lt;/a&gt; en de officiële wiki in het algemeen, is een goede plek om erover te leren. Houd er rekening mee dat sommige artikelen op de wiki origineel geschreven zijn voor Twine 1, die iets anders is dan deze versie. Maar de meeste concepten zijn nog hetzelfde."
+msgid "<strong>If you've never used Twine before,</strong> then welcome! The <a href=\"http://twinery.org/2guide\" target=\"_blank\">Twine 2 Guide</a> and the official wiki in general, are a great place to learn. Keep in mind that some articles on the wiki were written for Twine 1, which is a little bit different than this version. But most of the concepts are the same."
+msgstr "<strong>Als je nog nooit Twine hebt gebruikt,</strong> welkom! De <a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\">Twine 2-gids</a> en de officiële wiki in het algemeen, is een goede plek om erover te leren. Houd er rekening mee dat sommige artikelen op de wiki origineel geschreven zijn voor Twine 1, die iets anders is dan deze versie. Maar de meeste concepten zijn nog hetzelfde."
 
 #: src/nw/patches/welcome-view/replacement-template.html src/welcome/index.html
-msgid "&lt;strong&gt;If you have used Twine 1 before,&lt;/strong&gt; the guide also has details on what has changed in this version. Chief among them is a new default story format, Harlowe. But if you find you prefer the Twine 1 scripting syntax, try using SugarCube instead."
-msgstr "&lt;strong&gt;Als je voorheen Twine 1 hebt gebruikt,&lt;/strong&gt; de gids heeft ook informatie over wat er veranderd is in deze versie. De belangrijkste is het nieuwe verhaalformaat, Harlowe. Maar als je de Twine 1 scripting-syntax prettiger vind, probeer in plaats daarvan SugarCube."
+msgid "<strong>If you have used Twine 1 before,</strong> the guide also has details on what has changed in this version. Chief among them is a new default story format, Harlowe. But if you find you prefer the Twine 1 scripting syntax, try using SugarCube instead."
+msgstr "<strong>Als je voorheen Twine 1 hebt gebruikt,</strong> de gids heeft ook informatie over wat er veranderd is in deze versie. De belangrijkste is het nieuwe verhaalformaat, Harlowe. Maar als je de Twine 1 scripting-syntax prettiger vind, probeer in plaats daarvan SugarCube."
 
 #: src/nw/patches/welcome-view/replacement-template.html src/welcome/index.html
 msgid "OK"
@@ -281,8 +285,8 @@ msgid "Your work is automatically saved."
 msgstr "Je werk wordt automatisch opgeslagen."
 
 #: src/nw/patches/welcome-view/replacement-template.html
-msgid "There's now a folder named Twine in your Documents folder. Inside that is a Stories folder, where all your work will be saved. Twine saves as you work, so you don't have to worry about remembering to save it yourself. You can always open the folder your stories are saved to by using the &lt;b&gt;Show Library&lt;/b&gt; item in the &lt;b&gt;Twine&lt;/b&gt; menu."
-msgstr "Er is nu een map genaamd Twine in je Documenten-map. Daarin zit een Verhaal-map, waar al je werk wordt opgeslagen. Twine slaat automatisch op terwijl je werkt, dus je hoeft je geen zorgen te maken over het zelf opslaan ervan. Je kunt altijd de map openen waar je verhalen opgeslagen zijn door de &lt;b&gt;Bibliotheek weergeven&lt;/b&gt;-knop in het &lt;b&gt;Twine&lt;/b&gt;-menu te gebruiken."
+msgid "There's now a folder named Twine in your Documents folder. Inside that is a Stories folder, where all your work will be saved. Twine saves as you work, so you don't have to worry about remembering to save it yourself. You can always open the folder your stories are saved to by using the <b>Show Library</b> item in the <b>Twine</b> menu."
+msgstr "Er is nu een map genaamd Twine in je Documenten-map. Daarin zit een Verhaal-map, waar al je werk wordt opgeslagen. Twine slaat automatisch op terwijl je werkt, dus je hoeft je geen zorgen te maken over het zelf opslaan ervan. Je kunt altijd de map openen waar je verhalen opgeslagen zijn door de <b>Bibliotheek weergeven</b>-knop in het <b>Twine</b>-menu te gebruiken."
 
 #: src/nw/patches/welcome-view/replacement-template.html
 msgid "Because Twine is always saving your work, the files in your story library will be locked from editing while Twine is open."
@@ -407,7 +411,7 @@ msgstr "Naam van verhaal"
 
 #: src/story-list-view/index.html
 msgid "There are no stories saved in Twine right now. To get started, you can either create a new story or import an existing one from a file."
-msgstr "Er zijn nu nog geen verhalen in Twine opgeslagen. Om te beginnen, kun je of een nieuw verhaal maken, of bestaande verhalen vanuit een bestand importeren."
+msgstr "Er zijn nu nog geen verhalen in Twine opgeslagen. Om te beginnen, kun je een nieuw verhaal maken of bestaande verhalen vanuit een bestand importeren."
 
 #: src/story-list-view/list-toolbar/index.html src/nw/directories.js:69
 #: src/nw/menus.js:17 src/nw/menus.js:39
@@ -487,24 +491,24 @@ msgid "Delete Story"
 msgstr "Verhaal verwijderen"
 
 #: src/welcome/index.html
-msgid "&lt;strong&gt;If you've never used Twine before,&lt;/strong&gt; then welcome! The &lt;a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\"&gt;Twine 2 Guide&lt;/a&gt; and the official wiki in general, are a great place to learn. Keep in mind that some articles on the wiki were written for Twine 1, which is a little bit different than this version. But most of the concepts are the same."
-msgstr "&lt;strong&gt;Als je nog nooit Twine hebt gebruikt,&lt;/strong&gt; welkom! De &lt;a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\"&gt;Twine 2-gids&lt;/a&gt; en de officiële wiki in het algemeen, is een goede plek om erover te leren. Houd er rekening mee dat sommige artikelen op de wiki geschreven zijn voor Twine 1, die iets anders is dan deze versie. Maar de meeste concepten zijn nog hetzelfde."
+msgid "<strong>If you've never used Twine before,</strong> then welcome! The <a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\">Twine 2 Guide</a> and the official wiki in general, are a great place to learn. Keep in mind that some articles on the wiki were written for Twine 1, which is a little bit different than this version. But most of the concepts are the same."
+msgstr "<strong>Als je nog nooit Twine hebt gebruikt,</strong> welkom! De <a href=\\\"http://twinery.org/2guide\\\" target=\\\"_blank\\\">Twine 2-gids</a> en de officiële wiki in het algemeen, is een goede plek om erover te leren. Houd er rekening mee dat sommige artikelen op de wiki geschreven zijn voor Twine 1, die iets anders is dan deze versie. Maar de meeste concepten zijn nog hetzelfde."
 
 #: src/welcome/index.html
 msgid "Your work is saved only in your browser."
 msgstr "Je werk wordt alleen in de browser opgeslagen."
 
 #: src/welcome/index.html
-msgid "That means you don't need to create an account to use Twine 2, and everything you create isn't stored on a server somewhere else &mdash; it stays right in your browser."
-msgstr "Dat betekent dat je geen account hoeft te maken om Twine 2 te gebruiken, en alles wat je maakt wordt niet op een server opgeslagen &mdash; het blijft in je browser."
+msgid "That means you don't need to create an account to use Twine 2, and everything you create isn't stored on a server somewhere else — it stays right in your browser."
+msgstr "Dat betekent dat je geen account hoeft te maken om Twine 2 te gebruiken, en alles wat je maakt wordt niet op een server opgeslagen — het blijft in je browser."
 
 #: src/welcome/index.html
-msgid "Two &lt;b&gt;very important&lt;/b&gt; things to remember, though. Since your work is saved only in your browser, if you clear its saved data, then you'll lose your work! Not good. Remember to use that &lt;i class=\\\"fa fa-briefcase\\\"&gt;&lt;/i&gt;&nbsp;&lt;strong&gt;Archive&lt;/strong&gt; button often. You can also publish individual stories to files using the &lt;i class=\\\"fa fa-cog\\\"&gt;&lt;/i&gt; menu on each story in the story list. Both archive and story files can always be re-imported into Twine."
-msgstr "Er zijn echter twee &lt;b&gt;erg belangrijke&lt;/b&gt; dingen om rekening mee te houden. Omdat je werk in je browser wordt opgeslagen, als je zijn opgeslagen data wist, raak je ook je werk kwijt! Niet leuk. Denk eraan om de &lt;i class=\\\"fa fa-briefcase\\\"&gt;&lt;/i&gt;&nbsp;&lt;strong&gt;Archief&lt;/strong&gt;-knop regelmatig te gebruiken. Je kunt ook individuele verhalen publiceren met het &lt;i class=\\\"fa fa-cog\\\"&gt;&lt;/i&gt;-menu op ieder verhaal in de verhalenlijst. Zowel het archief als de verhaalbestanden kunnen altijd weer opnieuw in Twine geïmporteerd worden."
+msgid "Two <b>very important</b> things to remember, though. Since your work is saved only in your browser, if you clear its saved data, then you'll lose your work! Not good. Remember to use that <i class='fa fa-briefcase'></i> <strong>Archive</strong> button often. You can also publish individual stories to files using the <i class='fa fa-cog'></i> menu on each story in the story list. Both archive and story files can always be re-imported into Twine."
+msgstr "Er zijn echter twee <b>erg belangrijke</b> dingen om rekening mee te houden. Omdat je werk in je browser wordt opgeslagen, als je zijn opgeslagen data wist, raak je ook je werk kwijt! Niet leuk. Denk eraan om de <i class=\\\"fa fa-briefcase\\\"></i>&nbsp;<strong>Archief</strong>-knop regelmatig te gebruiken. Je kunt ook individuele verhalen publiceren met het <i class=\\\"fa fa-cog\\\"></i>-menu op ieder verhaal in de verhalenlijst. Zowel het archief als de verhaalbestanden kunnen altijd weer opnieuw in Twine geïmporteerd worden."
 
 #: src/welcome/index.html
-msgid "Secondly, &lt;b&gt;anyone who can use this browser can see and make changes to your work&lt;/b&gt;. So if you've got a nosy kid brother, look into setting up a separate profile for yourself."
-msgstr "Ten tweede, &lt;b&gt;iedereen die deze browser gebruikt kan je verhalen zien en aanpassen.&lt;/b&gt;. Dus als je een nieuwsgierige jongere broer hebt, overweeg dan om een profiel voor jezelf op te zetten."
+msgid "Secondly, <b>anyone who can use this browser can see and make changes to your work</b>. So if you've got a nosy kid brother, look into setting up a separate profile for yourself."
+msgstr "Ten tweede, <b>iedereen die deze browser gebruikt kan je verhalen zien en aanpassen</b>. Dus als je een nieuwsgierige jongere broer hebt, overweeg dan om een profiel voor jezelf op te zetten."
 
 #: src/data/actions.js:272
 msgid "a more recent version of the story format &ldquo;%s&rdquo; is already installed"
