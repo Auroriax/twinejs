@@ -75,6 +75,7 @@ const Locale = (module.exports = {
 
 		moment.locale(locale);
 		i18n = new Jed(data);
+		console.log("Made i18n",i18n)
 	},
 
 	/*
@@ -97,6 +98,7 @@ const Locale = (module.exports = {
 			the user can see *something*.
 			*/
 
+			console.log("Failed to get localisation for "+source+". Error: "+e)
 			return source;
 		}
 	},

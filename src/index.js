@@ -29,20 +29,20 @@ require('core-js');
 
 /* Start the application after loading the appropriate locale data. */
 
-let userLocale;
+let userLocale = "nl"; 
 
 /*
 The user can specify a locale parameter in the URL to override the app
 preference, in case things go severely wrong and they need to force it.
 */
 
-const localeUrlMatch = /locale=([^&]+)&?/.exec(window.location.search);
+/*const localeUrlMatch = /locale=([^&]+)&?/.exec(window.location.search);
 
 if (localeUrlMatch) {
 	userLocale = localeUrlMatch[1];
 } else {
 	userLocale = store.state.pref.locale;
-}
+}*/
 
 if (typeof userLocale === 'string') {
 	/* Load the locale, then start the application. */

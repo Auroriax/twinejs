@@ -385,6 +385,42 @@ msgstr "Proofing-exemplaar bekijken"
 msgid "Publish to File"
 msgstr "Naar bestand publiceren"
 
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Delete “%s”"
+msgstr "Verwijder “%s”"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Edit “%s”"
+msgstr "“%s” bewerken"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Test story starting here"
+msgstr "Vanaf hier beginnen met verhaal testen"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "More passage options"
+msgstr "Meer opties voor deze passage"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Start Story Here"
+msgstr "Verhaal hier beginnen"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Small"
+msgstr "Klein"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Wide"
+msgstr "Breed"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Tall"
+msgstr "Lang"
+
+#: src\story-edit-view\passage-item\passage-menu\index.html
+msgid "Large"
+msgstr "Groot"
+
 #: src/story-list-view/index.html
 msgid "Drop a story file to import"
 msgstr "Sleep een verhaalbestand hierheen om te importeren"
@@ -511,8 +547,8 @@ msgid "Secondly, <b>anyone who can use this browser can see and make changes to 
 msgstr "Ten tweede, <b>iedereen die deze browser gebruikt kan je verhalen zien en aanpassen</b>. Dus als je een nieuwsgierige jongere broer hebt, overweeg dan om een profiel voor jezelf op te zetten."
 
 #: src/data/actions.js:272
-msgid "a more recent version of the story format &ldquo;%s&rdquo; is already installed"
-msgstr "een recentere versie van het verhaalformaat &ldquo;%s&rdquo; is al geïnstalleerd"
+msgid "a more recent version of the story format “%s” is already installed"
+msgstr "een recentere versie van het verhaalformaat “%s” is al geïnstalleerd"
 
 #: src/data/publish.js:75
 msgid "There is no starting point set for this story."
@@ -558,8 +594,8 @@ msgstr "Niet nu"
 
 #. L10n: %1$s is the name of the story format; %2$s is
 #: src/dialogs/formats/index.js:63
-msgid "The story format &ldquo;%1$s&rdquo; could not be loaded (%2$s)."
-msgstr "Het verhaalformaat &ldquo;%1$s&rdquo; kon niet geladen worden (%2$s)."
+msgid "The story format “%1$s” could not be loaded (%2$s)."
+msgstr "Het verhaalformaat “%1$s” kon niet geladen worden (%2$s)."
 
 #: src/dialogs/formats/index.js:105
 msgid "The story format at %1$s could not be added (%2$s)."
@@ -622,20 +658,20 @@ msgstr "Dit verhaal is als laatste aangepast op %s."
 
 #: src/dialogs/story-stats/index.js
 msgid "The IFID for this story is <span class=\"ifid\">%s</span>. (<a href=\"http://ifdb.tads.org/help-ifid\" target=\"_blank\">What's an IFID?</a>)"
-msgstr "De IFID voor dit verhaal is <span class=\"ifid\">%s</span>. (<a href=\"http:\\/\\/ifdb.tads.org/help-ifid\" target=\"_blank\">Wat is een IFID?</a>)"
+msgstr "De IFID voor dit verhaal is <span class=\"ifid\">%s</span>. (<a href=\"http://ifdb.tads.org/help-ifid\" target=\"_blank\">Wat is een IFID?</a>)"
 
 #: src/editors/passage/index.js:38
 msgid "Enter the body text of your passage here. To link to another passage, put two square brackets around its name, [[like this]]."
 msgstr "Vul de tekst van je passage hier in. Om een koppeling naar een andere passage te maken, zet je twee vierkante haakjes om zijn naam, [[zoals dit]]."
 
 #: src/editors/passage/index.js:182
-msgid "Editing \\u201c%s\\u201d"
-msgstr "\\u201c%s\\u201d aan het bewerken"
+msgid "Editing “%s”"
+msgstr "“%s” aan het bewerken"
 
 #. L10n: %1$s is a filename; %2$s is the error message.
 #: src/file/save.js:71
-msgid "&ldquo;%1$s&rdquo; could not be saved (%2$s)."
-msgstr "&ldquo;%1$s&rdquo; kon niet opgeslagen worden (%2$s)."
+msgid "“%1$s” could not be saved (%2$s)."
+msgstr "“%1$s” kon niet opgeslagen worden (%2$s)."
 
 #. L10n: This is the folder name on OS X, Linux, and recent versions of Windows that a user's documents are stored in, relative to the user's home directory. If you need to use a space in this name, then it should have two backslashes (\\) in front of it.
 #: src/nw/directories.js:37
@@ -670,14 +706,6 @@ msgstr "Beeld"
 #: src/nw/menus.js
 msgid "Window"
 msgstr "Venster"
-
-#: src/nw/menus.js
-msgid "Window"
-msgstr "Venster"
-
-#: src/nw/menus.js
-msgid "Help"
-msgstr "Help"
 
 #: src/nw/menus.js:66
 msgid "Undo"
@@ -734,10 +762,6 @@ msgstr "Ontwikkelaars-tools"
 #: src/nw/menus.js
 msgid "Minimize"
 msgstr "Minimaliseren"
-
-#: src/nw/menus.js
-msgid "Close"
-msgstr "Sluiten"
 
 #: src/nw/menus.js
 msgid "Close"
