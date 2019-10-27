@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.13\n"
-"Last-Translator: \n"
+"Last-Translator: Tom Hermans\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: nl\n"
 
@@ -21,8 +21,8 @@ msgid "Twine is an open-source tool for telling interactive, nonlinear stories."
 msgstr "Twine is een open-source hulpmiddel voor het vertellen van interactieve, non-lineaire verhalen."
 
 #: src/dialogs/about/index.html
-msgid "This application is released under the \\x3ca href=\"http:\\/\\/www.gnu.org/licenses/gpl-3.0.html\">GPL v3\\x3c/a> license, but any work created with it may be released under any terms, including commercial ones."
-msgstr "Deze applicatie is vrijgegeven onder de \\x3ca href=\"http:\\/\\/www.gnu.org/licenses/gpl-3.0.html\">GPL v3\\x3c/a>-licentie, maar werk wat ermee gemaakt is kan onder iedere licentie worden uitgebracht, zelfs commercieel."
+msgid "This application is released under the <a href=\"http://www.gnu.org/licenses/gpl-3.0.html\">GPL v3</a> license, but any work created with it may be released under any terms, including commercial ones."
+msgstr "Deze applicatie is vrijgegeven onder de <a href=\"http://www.gnu.org/licenses/gpl-3.0.html\">GPL v3</a>-licentie, maar werk wat ermee gemaakt is kan onder iedere licentie worden uitgebracht, zelfs commercieel."
 
 #: src/dialogs/about/index.html
 msgid "Help Twine Grow With A Donation"
@@ -341,6 +341,10 @@ msgstr "Alleen passagetitels laten zien"
 #: src/story-edit-view/story-toolbar/index.html
 msgid "Show only story structure"
 msgstr "Alleen verhaalstructuur weergeven"
+
+#: src/story-edit-view/story-toolbar/story-search/index.html
+msgid "Quick Find"
+msgstr "Snel zoeken"
 
 #: src/story-edit-view/story-toolbar/index.html
 msgid "Find and replace across the entire story"
@@ -828,12 +832,8 @@ msgstr "Dupliceren"
 
 #: src/story-list-view/story-item/item-menu/index.js:126
 msgid "%s Copy"
-msgstr "kopie"
+msgstr "%s kopie"
 
 #: src/ui/quota-gauge/index.js:24
 msgid "%d%% space available"
 msgstr "%d%% ruimte beschikbaar"
-
-#: src/story-edit-view/story-toolbar/story-search/index.html
-msgid "Quick Find"
-msgstr "Snel zoeken"
